@@ -4,6 +4,7 @@
 from tkinter import Tk,Button,Label 
 from tkinter import Canvas 
 from random import randint 
+import os
 
 # defining Tk from Tkinter 
 root = Tk() 
